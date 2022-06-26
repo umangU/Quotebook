@@ -1,6 +1,7 @@
-Testing
 Strength through Struggle - Michael Choi
 
 I like green - Umang
 
 Test Trest
+
+Testing - MERGE CONFLICT
